@@ -10,4 +10,5 @@ Along with my academic journey, I actively work on personal and academic project
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+A programmer who subconsciously views himself as an artist will enjoy what he does and will do it better.
+- Donald Knuth
